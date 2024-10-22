@@ -10,4 +10,9 @@ Site Sobre Carros
 
 ![image](https://github.com/user-attachments/assets/a818a630-56ce-491b-bd3a-a31af15b6508)
 
+<br>
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/2be14045-16ab-40e7-9104-332a5cd359b2)
 
