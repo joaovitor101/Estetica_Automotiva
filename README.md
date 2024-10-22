@@ -1,7 +1,7 @@
 # Estetica_Automotiva
 Site Sobre Carros <br>
 
-https://joaovitor101.github.io/Estetica_Automotiva/
+<a href="https://joaovitor101.github.io/Estetica_Automotiva/" target="_blank">Clique</a>
 
 <br>
 
